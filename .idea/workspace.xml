@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec2/11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec2/12.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec2/11.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec2/11.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,14 +77,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec2/11.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="210" column="7" lean-forward="true" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+            <state relative-caret-position="608">
+              <caret line="114" column="54" lean-forward="true" selection-start-line="114" selection-start-column="54" selection-end-line="114" selection-end-column="54" />
               <folding>
                 <element signature="e#7746#7767#0" expanded="true" />
                 <element signature="e#7685#7711#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec2/12.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="168" column="7" lean-forward="true" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,13 +117,13 @@
         <option value="$PROJECT_DIR$/sec2/9.html" />
         <option value="$PROJECT_DIR$/sec2/10.html" />
         <option value="$PROJECT_DIR$/sec2/11.html" />
+        <option value="$PROJECT_DIR$/sec2/12.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="972" />
     <option name="y" value="23" />
-    <option name="width" value="883" />
+    <option name="width" value="1855" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -169,6 +183,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="12.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec2/12.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.12.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -179,19 +203,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560349605737</updated>
-      <workItem from="1560349607565" duration="19198000" />
+      <workItem from="1560349607565" duration="23313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19198000" />
+    <option name="totallyTimeSpent" value="23313000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="972" y="23" width="883" height="977" extended-state="0" />
+    <frame x="0" y="23" width="1855" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10208817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04798255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -268,11 +292,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec2/11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="210" column="7" lean-forward="true" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+        <state relative-caret-position="608">
+          <caret line="114" column="54" lean-forward="true" selection-start-line="114" selection-start-column="54" selection-end-line="114" selection-end-column="54" />
           <folding>
             <element signature="e#7746#7767#0" expanded="true" />
             <element signature="e#7685#7711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec2/12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="168" column="7" lean-forward="true" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
