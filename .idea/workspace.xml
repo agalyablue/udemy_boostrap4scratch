@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec3/20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec3/21.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec2/10.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1905">
-              <caret line="127" column="3" selection-start-line="127" selection-start-column="3" selection-end-line="127" selection-end-column="3" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec2/11.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec3/20.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="192" column="7" lean-forward="true" selection-start-line="192" selection-start-column="7" selection-end-line="192" selection-end-column="7" />
+            <state relative-caret-position="378">
+              <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
               <folding>
                 <element signature="e#5839#5846#1" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -138,6 +126,20 @@
                 <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec3/21.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="569" column="7" lean-forward="true" selection-start-line="569" selection-start-column="7" selection-end-line="569" selection-end-column="7" />
+              <folding>
+                <element signature="e#16191#16198#1" expanded="true" />
+                <element signature="e#16796#16803#1" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,6 +167,7 @@
         <option value="$PROJECT_DIR$/sec3/18.html" />
         <option value="$PROJECT_DIR$/sec3/19.html" />
         <option value="$PROJECT_DIR$/sec3/20.html" />
+        <option value="$PROJECT_DIR$/sec3/21.html" />
       </list>
     </option>
   </component>
@@ -235,10 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.20.html">
-    <configuration name="16.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec3/16.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.21.html">
     <configuration name="17.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec3/17.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -251,13 +251,16 @@
     <configuration name="20.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec3/20.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="21.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec3/21.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.21.html" />
         <item itemvalue="JavaScript Debug.20.html" />
         <item itemvalue="JavaScript Debug.19.html" />
         <item itemvalue="JavaScript Debug.18.html" />
         <item itemvalue="JavaScript Debug.17.html" />
-        <item itemvalue="JavaScript Debug.16.html" />
       </list>
     </recent_temporary>
   </component>
@@ -272,12 +275,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560349605737</updated>
       <workItem from="1560349607565" duration="35374000" />
-      <workItem from="1560515670395" duration="13052000" />
+      <workItem from="1560515670395" duration="16656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48426000" />
+    <option name="totallyTimeSpent" value="52030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1855" height="977" extended-state="0" />
@@ -431,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec3/20.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="192" column="7" lean-forward="true" selection-start-line="192" selection-start-column="7" selection-end-line="192" selection-end-column="7" />
+        <state relative-caret-position="378">
+          <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
           <folding>
             <element signature="e#5839#5846#1" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -448,6 +451,18 @@
             <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3/21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="569" column="7" lean-forward="true" selection-start-line="569" selection-start-column="7" selection-end-line="569" selection-end-column="7" />
+          <folding>
+            <element signature="e#16191#16198#1" expanded="true" />
+            <element signature="e#16796#16803#1" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
