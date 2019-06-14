@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec3/18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec3/19.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec2/8.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1605">
-              <caret line="107" column="29" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec2/9.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec2/13.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2205">
-              <caret line="147" column="7" lean-forward="true" selection-start-line="147" selection-start-column="7" selection-end-line="147" selection-end-column="7" />
+            <state relative-caret-position="500">
+              <caret line="100" column="82" lean-forward="true" selection-start-line="100" selection-start-column="82" selection-end-line="100" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -81,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec3/15.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
+            <state relative-caret-position="178">
               <caret line="110" column="28" lean-forward="true" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -114,11 +105,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec3/18.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="223" column="7" lean-forward="true" selection-start-line="223" selection-start-column="7" selection-end-line="223" selection-end-column="7" />
+            <state relative-caret-position="45">
+              <caret line="153" column="8" lean-forward="true" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec3/19.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="763">
+              <caret line="190" column="7" lean-forward="true" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -146,6 +149,7 @@
         <option value="$PROJECT_DIR$/sec3/16.html" />
         <option value="$PROJECT_DIR$/sec3/17.html" />
         <option value="$PROJECT_DIR$/sec3/18.html" />
+        <option value="$PROJECT_DIR$/sec3/19.html" />
       </list>
     </option>
   </component>
@@ -173,6 +177,11 @@
               <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
               <item name="sec1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
+              <item name="sec2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
@@ -211,10 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.18.html">
-    <configuration name="13.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec2/13.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.19.html">
     <configuration name="15.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec3/15.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -227,13 +233,16 @@
     <configuration name="18.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec3/18.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="19.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec3/19.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.19.html" />
         <item itemvalue="JavaScript Debug.18.html" />
         <item itemvalue="JavaScript Debug.17.html" />
         <item itemvalue="JavaScript Debug.16.html" />
         <item itemvalue="JavaScript Debug.15.html" />
-        <item itemvalue="JavaScript Debug.13.html" />
       </list>
     </recent_temporary>
   </component>
@@ -248,12 +257,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560349605737</updated>
       <workItem from="1560349607565" duration="35374000" />
-      <workItem from="1560515670395" duration="5976000" />
+      <workItem from="1560515670395" duration="10352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41350000" />
+    <option name="totallyTimeSpent" value="45726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1855" height="977" extended-state="0" />
@@ -348,23 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec2/13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2205">
-          <caret line="147" column="7" lean-forward="true" selection-start-line="147" selection-start-column="7" selection-end-line="147" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec3/15.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="110" column="28" lean-forward="true" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec3/16.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -385,10 +377,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sec2/13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="100" column="82" lean-forward="true" selection-start-line="100" selection-start-column="82" selection-end-line="100" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3/15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="110" column="28" lean-forward="true" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sec3/18.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="223" column="7" lean-forward="true" selection-start-line="223" selection-start-column="7" selection-end-line="223" selection-end-column="7" />
+        <state relative-caret-position="45">
+          <caret line="153" column="8" lean-forward="true" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3/19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="190" column="7" lean-forward="true" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
