@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec6/40.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/Home.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/Home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec6/42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec6/img/create-section1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec6/img/explore-section1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec6/img/share-section1.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec6/39.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec6/39.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sec6/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sec6/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec6/img/Home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sec6/41.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec4/28.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3165">
-              <caret line="211" column="48" selection-start-line="211" selection-start-column="48" selection-end-line="211" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec4/29.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +79,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec6/40.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="895">
-              <caret line="97" column="84" selection-start-line="97" selection-start-column="84" selection-end-line="97" selection-end-column="84" />
+            <state relative-caret-position="350">
+              <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec6/42.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="258" column="7" lean-forward="true" selection-start-line="258" selection-start-column="7" selection-end-line="258" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec6/41.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -99,15 +109,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec6/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            <state relative-caret-position="735">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec6/img/Home.jpeg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -156,7 +161,9 @@
         <option value="$PROJECT_DIR$/sec5/36.html" />
         <option value="$PROJECT_DIR$/sec6/39.html" />
         <option value="$PROJECT_DIR$/sec6/40.html" />
+        <option value="$PROJECT_DIR$/sec6/41.html" />
         <option value="$PROJECT_DIR$/sec6/css/style.css" />
+        <option value="$PROJECT_DIR$/sec6/42.html" />
       </list>
     </option>
   </component>
@@ -181,26 +188,6 @@
             <path>
               <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
@@ -256,13 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.40.html">
-    <configuration name="34.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec5/34.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="35.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec5/35.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.42.html">
     <configuration name="36.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec5/36.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -272,13 +253,19 @@
     <configuration name="40.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec6/40.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="41.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec6/41.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="42.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec6/42.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.42.html" />
+        <item itemvalue="JavaScript Debug.41.html" />
         <item itemvalue="JavaScript Debug.40.html" />
         <item itemvalue="JavaScript Debug.39.html" />
         <item itemvalue="JavaScript Debug.36.html" />
-        <item itemvalue="JavaScript Debug.35.html" />
-        <item itemvalue="JavaScript Debug.34.html" />
       </list>
     </recent_temporary>
   </component>
@@ -295,12 +282,12 @@
       <workItem from="1560349607565" duration="35374000" />
       <workItem from="1560515670395" duration="31385000" />
       <workItem from="1560627196776" duration="38724000" />
-      <workItem from="1560792546333" duration="202000" />
+      <workItem from="1560792546333" duration="4793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105685000" />
+    <option name="totallyTimeSpent" value="110276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1853" height="977" extended-state="0" />
@@ -326,21 +313,21 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.049672488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08679039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.3299435" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.3299435" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -670,17 +657,31 @@
     <entry file="file://$PROJECT_DIR$/sec6/img/Home.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/css/style.css">
+    <entry file="file://$PROJECT_DIR$/sec6/40.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="350">
+          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/40.html">
+    <entry file="file://$PROJECT_DIR$/sec6/41.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="97" column="84" selection-start-line="97" selection-start-column="84" selection-end-line="97" selection-end-column="84" />
+        <state relative-caret-position="400">
+          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec6/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec6/42.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="258" column="7" lean-forward="true" selection-start-line="258" selection-start-column="7" selection-end-line="258" selection-end-column="7" />
         </state>
       </provider>
     </entry>
