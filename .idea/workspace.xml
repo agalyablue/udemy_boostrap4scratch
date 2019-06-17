@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec6/43.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec4/29.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1905">
-              <caret line="127" column="8" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec5/31.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec6/40.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="870">
               <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
             </state>
           </provider>
@@ -85,21 +74,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec6/42.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
+            <state relative-caret-position="3675">
               <caret line="245" column="10" lean-forward="true" selection-start-line="245" selection-start-column="10" selection-end-line="245" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec6/43.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="321" column="7" lean-forward="true" selection-start-line="321" selection-start-column="7" selection-end-line="321" selection-end-column="7" />
-              <folding>
-                <element signature="e#11267#11273#0" expanded="true" />
-                <element signature="e#11796#11803#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="868">
+              <caret line="317" column="9" lean-forward="true" selection-start-line="317" selection-start-column="9" selection-end-line="317" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec7/37.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -107,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec6/41.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+            <state relative-caret-position="1470">
+              <caret line="98" column="22" lean-forward="true" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -172,6 +166,7 @@
         <option value="$PROJECT_DIR$/sec6/css/style.css" />
         <option value="$PROJECT_DIR$/sec6/42.html" />
         <option value="$PROJECT_DIR$/sec6/43.html" />
+        <option value="$PROJECT_DIR$/sec7/37.html" />
       </list>
     </option>
   </component>
@@ -200,7 +195,17 @@
             <path>
               <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
+              <item name="sec5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
               <item name="sec6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
+              <item name="sec7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,8 +244,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.43.html">
-    <configuration name="39.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec6/39.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.37.html">
+    <configuration name="37.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec7/37.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="40.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec6/40.html" useBuiltInWebServerPort="true">
@@ -257,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.37.html" />
         <item itemvalue="JavaScript Debug.43.html" />
         <item itemvalue="JavaScript Debug.42.html" />
         <item itemvalue="JavaScript Debug.41.html" />
         <item itemvalue="JavaScript Debug.40.html" />
-        <item itemvalue="JavaScript Debug.39.html" />
       </list>
     </recent_temporary>
   </component>
@@ -278,12 +283,13 @@
       <workItem from="1560349607565" duration="35374000" />
       <workItem from="1560515670395" duration="31385000" />
       <workItem from="1560627196776" duration="38724000" />
-      <workItem from="1560792546333" duration="6227000" />
+      <workItem from="1560792546333" duration="6458000" />
+      <workItem from="1560799609998" duration="1874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111710000" />
+    <option name="totallyTimeSpent" value="113815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1853" height="977" extended-state="0" />
@@ -599,6 +605,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sec6/img/Home.jpg" />
+    <entry file="file://$PROJECT_DIR$/sec6/img/Home.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/sec4/29.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1905">
@@ -647,23 +657,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/img/Home.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/img/Home.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec6/40.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="870">
           <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec6/42.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="245" column="10" lean-forward="true" selection-start-line="245" selection-start-column="10" selection-end-line="245" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sec6/41.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        <state relative-caret-position="1470">
+          <caret line="98" column="22" lean-forward="true" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -674,21 +685,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/42.html">
+    <entry file="file://$PROJECT_DIR$/sec6/43.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="245" column="10" lean-forward="true" selection-start-line="245" selection-start-column="10" selection-end-line="245" selection-end-column="10" />
+        <state relative-caret-position="868">
+          <caret line="317" column="9" lean-forward="true" selection-start-line="317" selection-start-column="9" selection-end-line="317" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/43.html">
+    <entry file="file://$PROJECT_DIR$/sec7/37.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="321" column="7" lean-forward="true" selection-start-line="321" selection-start-column="7" selection-end-line="321" selection-end-column="7" />
-          <folding>
-            <element signature="e#11267#11273#0" expanded="true" />
-            <element signature="e#11796#11803#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
         </state>
       </provider>
     </entry>
