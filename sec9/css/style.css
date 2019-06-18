@@ -30,10 +30,19 @@
 
 #home-heading {
     position: relative;
-    min-height: 200px;
+    min-height: 300px;
     background: url('../img/lights.jpeg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     text-align: center;
     color: #fff;
+}
+
+.dark-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
 }
