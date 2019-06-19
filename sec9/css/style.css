@@ -1,3 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
 .navbar .nav-link{
     font-size: 14px;
     text-transform: uppercase;
@@ -30,7 +34,7 @@
 
 #home-heading {
     position: relative;
-    min-height: 300px;
+    min-height: 250px;
     background: url('../img/lights.jpeg');
     background-attachment: fixed;
     background-repeat: no-repeat;

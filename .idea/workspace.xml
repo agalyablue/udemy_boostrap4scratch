@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec9/55.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec9/img/media.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec9/56.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec2/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec2/7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/55.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/55.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sec9/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,17 +22,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec6/43.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1290">
-              <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+            <state relative-caret-position="310">
+              <caret line="32" column="76" lean-forward="true" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec9/53.html">
+        <entry file="file://$PROJECT_DIR$/sec2/13.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="1500">
+              <caret line="100" column="82" lean-forward="true" selection-start-line="100" selection-start-column="82" selection-end-line="100" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec2/7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -39,8 +49,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec9/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="733">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="748">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../udemy_boostrap_from_scratch/section11/74.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -48,19 +67,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec9/54.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
+            <state relative-caret-position="2025">
+              <caret line="135" column="19" lean-forward="true" selection-start-line="135" selection-start-column="19" selection-end-line="135" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec9/55.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="166" column="10" lean-forward="true" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
+              <folding>
+                <element signature="e#7231#7238#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec9/55.html">
+        <entry file="file://$PROJECT_DIR$/sec9/56.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="121" column="26" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="26" />
+            <state relative-caret-position="468">
+              <caret line="245" column="27" lean-forward="true" selection-start-line="245" selection-start-column="27" selection-end-line="245" selection-end-column="27" />
               <folding>
-                <element signature="e#7231#7238#1" expanded="true" />
+                <element signature="e#10582#10588#0" expanded="true" />
+                <element signature="e#7223#7230#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,33 +106,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec9/img/lights.jpeg">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec6/40.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="115" column="7" lean-forward="true" selection-start-line="115" selection-start-column="7" selection-end-line="115" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec6/41.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1328">
-              <caret line="98" column="22" lean-forward="true" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec6/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -121,7 +126,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sec1/5.html" />
-        <option value="$PROJECT_DIR$/sec2/7.html" />
         <option value="$PROJECT_DIR$/sec2/8.html" />
         <option value="$PROJECT_DIR$/sec2/9.html" />
         <option value="$PROJECT_DIR$/sec2/10.html" />
@@ -157,15 +161,19 @@
         <option value="$PROJECT_DIR$/sec7/37.html" />
         <option value="$PROJECT_DIR$/sec9/Glozzom/css/style.css" />
         <option value="$PROJECT_DIR$/sec9/53.html" />
-        <option value="$PROJECT_DIR$/sec9/54.html" />
-        <option value="$PROJECT_DIR$/sec9/css/style.css" />
         <option value="$PROJECT_DIR$/sec9/55.html" />
+        <option value="$PROJECT_DIR$/sec9/54.html" />
+        <option value="$PROJECT_DIR$/sec2/7.html" />
+        <option value="$PROJECT_DIR$/../udemy_boostrap_from_scratch/section11/74.html" />
+        <option value="$PROJECT_DIR$/sec9/56.html" />
+        <option value="$PROJECT_DIR$/sec9/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
     <option name="y" value="23" />
-    <option name="width" value="1855" />
+    <option name="width" value="1847" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -220,12 +228,6 @@
               <item name="sec9" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Bootstrap_5projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap_5projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec9" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -267,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.55.html">
+  <component name="RunManager" selected="JavaScript Debug.56.html">
     <configuration name="37.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec7/37.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -283,8 +285,12 @@
     <configuration name="55.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/55.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="56.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/56.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.56.html" />
         <item itemvalue="JavaScript Debug.54.html" />
         <item itemvalue="JavaScript Debug.53.html" />
         <item itemvalue="JavaScript Debug.37.html" />
@@ -306,18 +312,18 @@
       <workItem from="1560515670395" duration="31385000" />
       <workItem from="1560627196776" duration="38724000" />
       <workItem from="1560792546333" duration="6458000" />
-      <workItem from="1560799609998" duration="24115000" />
+      <workItem from="1560799609998" duration="30116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136056000" />
+    <option name="totallyTimeSpent" value="142057000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1855" height="977" extended-state="0" />
+    <frame x="8" y="23" width="1847" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16281407" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05750274" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -337,7 +343,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16281407" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.057251908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -361,33 +367,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sec2/8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="107" column="29" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec2/9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2010">
-          <caret line="134" column="41" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec2/10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1905">
-          <caret line="127" column="3" selection-start-line="127" selection-start-column="3" selection-end-line="127" selection-end-column="3" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec2/11.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -402,13 +381,6 @@
           <folding>
             <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec2/13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="100" column="82" lean-forward="true" selection-start-line="100" selection-start-column="82" selection-end-line="100" selection-end-column="82" />
         </state>
       </provider>
     </entry>
@@ -742,13 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/43.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1290">
-          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/53.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -762,26 +727,65 @@
     <entry file="file://$PROJECT_DIR$/sec9/img/lights.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/55.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="166" column="10" lean-forward="true" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
+          <folding>
+            <element signature="e#7231#7238#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/54.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
+        <state relative-caret-position="2025">
+          <caret line="135" column="19" lean-forward="true" selection-start-line="135" selection-start-column="19" selection-end-line="135" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec6/43.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="32" column="76" lean-forward="true" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec2/13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="100" column="82" lean-forward="true" selection-start-line="100" selection-start-column="82" selection-end-line="100" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec2/7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../udemy_boostrap_from_scratch/section11/74.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sec9/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="748">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec9/55.html">
+    <entry file="file://$PROJECT_DIR$/sec9/56.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="121" column="26" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="26" />
+        <state relative-caret-position="468">
+          <caret line="245" column="27" lean-forward="true" selection-start-line="245" selection-start-column="27" selection-end-line="245" selection-end-column="27" />
           <folding>
-            <element signature="e#7231#7238#1" expanded="true" />
+            <element signature="e#10582#10588#0" expanded="true" />
+            <element signature="e#7223#7230#1" expanded="true" />
           </folding>
         </state>
       </provider>
