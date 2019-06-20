@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec9/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec9/img/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec9/img/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec9/img/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec9/img/laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec9/img/lights.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec9/img/media.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,9 +19,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sec9/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="205" column="7" lean-forward="true" selection-start-line="205" selection-start-column="7" selection-end-line="205" selection-end-column="7" />
+            <state relative-caret-position="758">
+              <caret line="295" column="7" lean-forward="true" selection-start-line="295" selection-start-column="7" selection-end-line="295" selection-end-column="7" />
               <folding>
+                <element signature="e#10085#10091#0" expanded="true" />
                 <element signature="e#6949#6956#1" expanded="true" />
               </folding>
             </state>
@@ -38,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec9/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="61" column="16" lean-forward="true" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+            <state relative-caret-position="748">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -247,23 +241,23 @@
       <workItem from="1560515670395" duration="31385000" />
       <workItem from="1560627196776" duration="38724000" />
       <workItem from="1560792546333" duration="6458000" />
-      <workItem from="1560799609998" duration="59328000" />
+      <workItem from="1560799609998" duration="64489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171269000" />
+    <option name="totallyTimeSpent" value="176430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="70" width="1692" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09216038" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09335727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -556,13 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/41.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1328">
-          <caret line="98" column="22" lean-forward="true" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/img/laptop.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -655,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/42.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="222" selection-start-line="222" selection-end-line="222" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec5/34.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
@@ -687,28 +667,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/img/lights.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/sec6/43.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
+        <state relative-caret-position="470">
           <caret line="301" column="21" lean-forward="true" selection-start-line="301" selection-start-column="21" selection-end-line="301" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec9/img/lights.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/sec6/42.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec6/41.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="98" column="22" lean-forward="true" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sec9/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="61" column="16" lean-forward="true" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+        <state relative-caret-position="748">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sec9/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="205" column="7" lean-forward="true" selection-start-line="205" selection-start-column="7" selection-end-line="205" selection-end-column="7" />
+        <state relative-caret-position="758">
+          <caret line="295" column="7" lean-forward="true" selection-start-line="295" selection-start-column="7" selection-end-line="295" selection-end-column="7" />
           <folding>
+            <element signature="e#10085#10091#0" expanded="true" />
             <element signature="e#6949#6956#1" expanded="true" />
           </folding>
         </state>
