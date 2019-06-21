@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta http-equiv="X-UA-compatible" content="ie=edge">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
     <link rel="stylesheet"
           href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" />
+          href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
+    <link rel="stylesheet" href="css/style.css">
+
     <title>Bootstrap Theme</title>
 </head>
 
@@ -18,7 +20,8 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
     <div class="container">
         <a href="index.html" class="navbar-brand">Glozzom</a>
-        <button class="navbar-toggler" data-toggle="collapse" data-target="navbarCollapse">
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav ml-auto">
@@ -26,7 +29,7 @@
                     <a href="index.html" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a href="about.html" class="nav-link">About</a>
+                    <a href="about.html" class="nav-link">About Us</a>
                 </li>
                 <li class="nav-item">
                     <a href="services.html" class="nav-link">Services</a>
@@ -151,8 +154,7 @@
         <div class="row">
             <div class="col">
                 <div class="container p-5">
-                    <a href="#" class="video" data-video="https://www.youtube.com/embed/Pt49y1gm0jw"
-                       data-toggle= "modal" data-target= "#videoModal">
+                    <a href="#" class="video" data-video="https://www.youtube.com/embed/HnwsG9a5riA" data-toggle= "modal" data-target= "#videoModal">
                         <i class="fas fa-play fa-3x"></i>
                     </a>
                     <h1>See What We Do</h1>
@@ -185,7 +187,7 @@
             <div class="col-md-4">
                 <a href="https://source.unsplash.com/random/562*562" data-toggle="lightbox"
                    data-gallery="img-gallery" data-height="562" data-width="562">
-                    <img src="https://source.unsplash.com/random/560*560" alt="" class="img-fluid">
+                    <img src="https://source.unsplash.com/random/562*562" alt="" class="img-fluid">
                 </a>
             </div>
         </div>
@@ -194,14 +196,14 @@
             <div class="col-md-4">
                 <a href="https://source.unsplash.com/random/563*563" data-toggle="lightbox"
                    data-gallery="img-gallery" data-height="563" data-width="563">
-                    <img src="https://source.unsplash.com/random/560*560" alt="" class="img-fluid">
+                    <img src="https://source.unsplash.com/random/563*563" alt="" class="img-fluid">
                 </a>
             </div>
 
             <div class="col-md-4">
                 <a href="https://source.unsplash.com/random/564*564" data-toggle="lightbox"
                    data-gallery="img-gallery" data-height="564" data-width="564">
-                    <img src="https://source.unsplash.com/random/560*560" alt="" class="img-fluid">
+                    <img src="https://source.unsplash.com/random/564*564" alt="" class="img-fluid">
                 </a>
             </div>
 
@@ -215,13 +217,16 @@
     </div>
 </section>
 
+
 <!--NEWSLETTER-->
 <section id="newsletter" class="text-center p-5 bg-dark text-white">
     <div class="container">
         <div class="row">
             <div class="col">
                 <h1>Sign Up For Our Newsletter</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio asperiores consectetut, quae ducimus voluptates vero repellendus architecto maiores recusandae mollitia?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio asperiores
+                    consectetur, quae ducimus voluptates vero repellendus architecto maiores
+                    recusandae mollitia?</p>
             <form class="form-inline justify-content-center">
                 <input type="text" class="form-control mb-2 mr-2" placeholder="Enter Name">
                 <input type="text" class="form-control mb-2 mr-2" placeholder="Enter Email">
@@ -258,11 +263,12 @@
     </div>
 </div>
 
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script
-    src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
+        src= "https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"> </script>
+
 <script>
     // Get the current year for the copyright
     $('#year').text(new Date().getFullYear());
@@ -295,4 +301,5 @@
 
 </script>
 </body>
+
 </html>
