@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec9/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sec9/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec9/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="109" column="72" selection-start-line="109" selection-start-column="72" selection-end-line="109" selection-end-column="72" />
+            <state relative-caret-position="253">
+              <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
               <folding>
                 <element signature="e#13260#13266#0" expanded="true" />
               </folding>
@@ -31,10 +29,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec9/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sec9/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+            <state relative-caret-position="545">
+              <caret line="73" column="16" lean-forward="true" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -100,29 +107,44 @@
         <option value="$PROJECT_DIR$/sec9/57.html" />
         <option value="$PROJECT_DIR$/sec9/58.html" />
         <option value="$PROJECT_DIR$/sec9/59.html" />
-        <option value="$PROJECT_DIR$/sec9/index.html" />
         <option value="$PROJECT_DIR$/sec9/services.html" />
-        <option value="$PROJECT_DIR$/sec9/css/style.css" />
         <option value="$PROJECT_DIR$/sec9/about.html" />
         <option value="$PROJECT_DIR$/sec9/blog.html" />
+        <option value="$PROJECT_DIR$/sec9/index.html" />
+        <option value="$PROJECT_DIR$/sec9/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="y" value="70" />
-    <option name="width" value="1703" />
+    <option name="x" value="1130" />
+    <option name="y" value="23" />
+    <option name="width" value="1351" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Bootstrap_5projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/workspace/workspace_html/Bootstrap_5projects" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Bootstrap_5projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/workspace/workspace_html/Bootstrap_5projects" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="sec9" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,20 +218,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.services.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="55.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/55.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="56.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/56.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="57.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/57.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <configuration name="59.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/59.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="blog.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/blog.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/index.html" useBuiltInWebServerPort="true">
@@ -220,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.blog.html" />
         <item itemvalue="JavaScript Debug.services.html" />
         <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="JavaScript Debug.56.html" />
         <item itemvalue="JavaScript Debug.59.html" />
-        <item itemvalue="JavaScript Debug.57.html" />
       </list>
     </recent_temporary>
   </component>
@@ -242,18 +264,18 @@
       <workItem from="1560515670395" duration="31385000" />
       <workItem from="1560627196776" duration="38724000" />
       <workItem from="1560792546333" duration="6458000" />
-      <workItem from="1560799609998" duration="97927000" />
+      <workItem from="1560799609998" duration="99070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209868000" />
+    <option name="totallyTimeSpent" value="211011000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="70" width="1703" height="977" extended-state="0" />
+    <frame x="1130" y="23" width="1351" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.060642093" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15037593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -664,17 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec9/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="84" column="18" lean-forward="true" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
-          <folding>
-            <element signature="e#10085#10091#0" expanded="true" />
-            <element signature="e#6949#6956#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -695,20 +706,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec9/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="109" column="72" selection-start-line="109" selection-start-column="72" selection-end-line="109" selection-end-column="72" />
+        <state relative-caret-position="253">
+          <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
           <folding>
             <element signature="e#13260#13266#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="73" column="16" lean-forward="true" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
         </state>
       </provider>
     </entry>

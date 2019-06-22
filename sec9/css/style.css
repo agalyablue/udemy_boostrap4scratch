@@ -1,12 +1,12 @@
 body {
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .navbar .nav-link {
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
-    padding-left: !important;
-    padding-right: !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
 }
 
 .navbar .nav-item.active {
@@ -14,7 +14,7 @@ body {
 }
 
 .carousel-item {
-    height: 340px;
+    height:450px;
 }
 
 .carousel-image-1 {
@@ -34,7 +34,7 @@ body {
 
 #home-heading {
     position: relative;
-    min-height: 160px;
+    min-height: 200px;
     background: url('../img/lights.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -53,11 +53,11 @@ body {
 
 #video-play {
     position: relative;
-    min-height: 120px;
+    min-height: 200px;
     background: url('../img/media.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: 0 -100px;
+    background-position: 0 -300px;
     text-align: center;
     color: #fff;
 }
@@ -67,13 +67,13 @@ body {
 }
 
 #page-header {
-    height: 180px;
+    height: 200px;
     background: url('../img/image1.jpg');
-    background-position: 0 -100px;
+    background-position: 0 -360px;
     background-attachment: fixed;
     color: #fff;
     border-bottom: 1px #eee solid;
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 .about-img {
