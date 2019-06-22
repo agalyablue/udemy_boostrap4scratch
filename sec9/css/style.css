@@ -35,7 +35,7 @@ body {
 #home-heading {
     position: relative;
     min-height: 160px;
-    background: url('..img/lights.jpg');
+    background: url('../img/lights.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     text-align: center;
@@ -67,7 +67,7 @@ body {
 }
 
 #page-header {
-    height: 150px;
+    height: 180px;
     background: url('../img/image1.jpg');
     background-position: 0 -100px;
     background-attachment: fixed;
@@ -92,4 +92,9 @@ body {
 #faq .card-body,
 #faq .card-header {
     background: #333;
+}
+
+#main-footer {
+    background: #000;
+    color: #fff;
 }
