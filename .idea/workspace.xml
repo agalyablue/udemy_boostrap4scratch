@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/sec9/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/services.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec9/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+            <state relative-caret-position="673">
+              <caret line="155" selection-start-line="155" selection-end-line="155" />
               <folding>
                 <element signature="e#13260#13266#0" expanded="true" />
               </folding>
@@ -48,8 +50,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sec9/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="10" column="86" lean-forward="true" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+            <state relative-caret-position="733">
+              <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec9/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="317" column="7" lean-forward="true" selection-start-line="317" selection-start-column="7" selection-end-line="317" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -57,6 +68,10 @@
     </leaf>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>collaps</find>
+      <find>CollapseSix</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -115,18 +130,18 @@
         <option value="$PROJECT_DIR$/sec9/57.html" />
         <option value="$PROJECT_DIR$/sec9/58.html" />
         <option value="$PROJECT_DIR$/sec9/59.html" />
-        <option value="$PROJECT_DIR$/sec9/services.html" />
-        <option value="$PROJECT_DIR$/sec9/blog.html" />
         <option value="$PROJECT_DIR$/sec9/index.html" />
         <option value="$PROJECT_DIR$/sec9/css/style.css" />
+        <option value="$PROJECT_DIR$/sec9/services.html" />
+        <option value="$PROJECT_DIR$/sec9/blog.html" />
         <option value="$PROJECT_DIR$/sec9/about.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1117" />
-    <option name="y" value="57" />
-    <option name="width" value="1169" />
+    <option name="x" value="1017" />
+    <option name="y" value="32" />
+    <option name="width" value="791" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -226,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.blog.html">
     <configuration name="55.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/55.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -272,18 +287,17 @@
       <workItem from="1560515670395" duration="31385000" />
       <workItem from="1560627196776" duration="38724000" />
       <workItem from="1560792546333" duration="6458000" />
-      <workItem from="1560799609998" duration="99649000" />
+      <workItem from="1560799609998" duration="100710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211590000" />
+    <option name="totallyTimeSpent" value="212651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1117" y="57" width="1169" height="977" extended-state="0" />
-    <editor active="true" />
+    <frame x="1017" y="32" width="791" height="977" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15037593" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13506493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -694,26 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec9/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding>
-            <element signature="e#8302#8308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec9/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
-          <folding>
-            <element signature="e#13260#13266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -728,10 +722,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="317" column="7" lean-forward="true" selection-start-line="317" selection-start-column="7" selection-end-line="317" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
+          <folding>
+            <element signature="e#13260#13266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="10" column="86" lean-forward="true" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+        <state relative-caret-position="733">
+          <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
         </state>
       </provider>
     </entry>
