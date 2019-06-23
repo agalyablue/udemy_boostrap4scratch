@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec10/settings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec10/settings.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="126" column="107" selection-start-line="126" selection-start-column="107" selection-end-line="126" selection-end-column="107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec6/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec10/profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="755">
+              <caret line="133" column="10" lean-forward="true" selection-start-line="133" selection-start-column="10" selection-end-line="133" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -54,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sec2/13.html" />
         <option value="$PROJECT_DIR$/sec3/16.html" />
         <option value="$PROJECT_DIR$/sec3/17.html" />
         <option value="$PROJECT_DIR$/sec3/18.html" />
@@ -105,6 +106,7 @@
         <option value="$PROJECT_DIR$/sec10/users.html" />
         <option value="$PROJECT_DIR$/sec10/details.html" />
         <option value="$PROJECT_DIR$/sec10/settings.html" />
+        <option value="$PROJECT_DIR$/sec10/profile.html" />
       </list>
     </option>
   </component>
@@ -194,7 +196,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec9/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec10/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -207,11 +209,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sec10/img" />
       <recent name="$PROJECT_DIR$/sec9/img" />
       <recent name="$PROJECT_DIR$/sec9" />
       <recent name="$PROJECT_DIR$/sec9/Glozzom/img" />
       <recent name="$PROJECT_DIR$/sec9/Glozzom" />
-      <recent name="$PROJECT_DIR$/sec9/css." />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,12 +274,12 @@
       <workItem from="1560515670395" duration="31385000" />
       <workItem from="1560627196776" duration="38724000" />
       <workItem from="1560792546333" duration="6458000" />
-      <workItem from="1560799609998" duration="117516000" />
+      <workItem from="1560799609998" duration="119113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229457000" />
+    <option name="totallyTimeSpent" value="231054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1855" height="973" extended-state="0" />
@@ -327,9 +329,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sec6/img/Home.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec4/29.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1905">
@@ -654,17 +653,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="282" column="10" lean-forward="true" selection-start-line="282" selection-start-column="10" selection-end-line="282" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec10/details.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="535">
           <caret line="136" column="21" lean-forward="true" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -675,10 +674,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/settings.html">
+    <entry file="file://$PROJECT_DIR$/sec10/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="126" column="107" selection-start-line="126" selection-start-column="107" selection-end-line="126" selection-end-column="107" />
+        <state relative-caret-position="504">
+          <caret line="280" column="18" lean-forward="true" selection-start-line="280" selection-start-column="18" selection-end-line="280" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="133" column="10" lean-forward="true" selection-start-line="133" selection-start-column="10" selection-end-line="133" selection-end-column="10" />
         </state>
       </provider>
     </entry>
