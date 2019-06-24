@@ -47,25 +47,45 @@
 
 <!--SHOWCASE SLIDER-->
 <section id="showcase">
+
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!--  Q: (1) Explain each of below 5 lines in detail? explain the classes involved?
+                 (2) Below 5 lines, explain the purpose of each attributes?       -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>
+        <!-- Q: (1) What is the purpose of class "carousel-inner"
+                (2) Explain purpose in each of the class "carousel-item carousel-image-1 active"?
+
+        A:
+        -->
         <div class="carousel-inner">
            <div class="carousel-item carousel-image-1 active">
                <div class="container">
                    <div class="carousel-caption d-none d-sm-block text-right mb-5">
                        <h1 class="display-3">Heading One</h1>
                        <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam vel ullam deleniti reiciendis ratione quod aliquid inventore vero perspiciatis.</p>
+                <!-- Q: (1) What is the purpose of class "btn-danger" "btn-lg"
+
+                A:
+                -->
                    <a href="#" class="btn btn-danger btn-lg">Sign Up Now</a>
                    </div>
                </div>
            </div>
+            <!-- Q: (1) What is the purpose of each of class "carousel-item" "carousel-image-2"?
 
+                 A: (1)
+            -->
             <div class="carousel-item carousel-image-2">
                 <div class="container">
+                    <!-- Q: (1) What is the purpose of each of the class "d-none d-sm-block"??
+                            (2) purpose of "md-5" class below? (3) purpose of class "carousel-caption" ?
+
+                    A:
+                    -->
                     <div class="carousel-caption d-none d-sm-block mb-5">
                         <h1 class="display-3">Heading Two</h1>
                         <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam vel ullam deleniti reiciendis ratione quod aliquid inventore vero perspiciatis.</p>
@@ -85,11 +105,19 @@
             </div>
         </div>
 
+        <!-- Q: (1) What is the purpose of class "carousel-control-prev"
+
+            A:
+        -->
 <a href="#myCarousel" data-slide="prev" class="carousel-control-prev">
     <span class="carousel-control-prev-icon"></span>
 </a>
 
 <a href="#myCarousel" data-slide="next" class="carousel-control-next">
+    <!-- Q: (1) What is the purpose of class "carousel-control-next-icon""
+
+    A:
+    -->
     <span class="carousel-control-next-icon"></span>
 </a>
     </div>
@@ -282,8 +310,11 @@
         $(this).ekkoLightbox();
     });
 
-    // Q: (1) Explain each line in below function??
-    // A: (1) 
+    // Q:   (1) Explain each line in below function??
+    //      (2) What is the meaning of . inside ".video"?
+    //      (3) Explain each line in below function.
+    //      (4) What is the purpose of iframe? (5) What is a modal in general. show in browser?
+    // A:   (1)
     // Video Play
     $(function () {
         // Auto play modal video
