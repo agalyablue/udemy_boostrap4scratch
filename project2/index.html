@@ -6,13 +6,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" crossorigin="anonymous">
+    <!--  Remarks: Below two lines can be merged into one. Unless the lines are too long, that you can't read, then break to next   -->
     <link rel="stylesheet"
           href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
     <title>Bootstrap Theme</title>
 </head>
 
+<!--
+Q:
+(1) What is purpose of SCSS ?
+(2) What is the advantage of using SCSS?
+(3) If I ask you to create a new variable named $myviolet = #8a2be2, in which file will you do? and show how will you declare it in that file?
+(4) How will you change the btn-primary bootstrap button color and show it in the code?
+(5) Which tool you used to compile the scss code to css code?
+
+A:
+(1)
+(2)
+(3)
+(4)
+-->
+
 <body id="home" data-spy="scroll" data-target="#main-nav">
+<!-- Q: (1) Explain the purpose of each of the below classes  (i.e., navbar navbar-expand-md navbar-light fixed-top py-4) -->
+<!--    (2) What is md in class "navbar-expand-md " -->
+<!--    (3) What does the -->
+<!--    (4) What is the purpose of fixed-top and show how it works in the screen
+     A: (1)
+
+-->
 <nav class="navbar navbar-expand-md navbar-light fixed-top py-4" id="main-nav">
     <div class="container">
         <a href="#home" class="navbar-brand">
@@ -22,18 +45,45 @@
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
            <span class="navbar-toggler-icon"></span>
         </button>
+        <!--  Q: (1) Show is the use of  class "navbar-collapse"
+              A: (1) -->
         <div class="collapse navbar-collapse" id="navbarCollapse">
+            <!--  Q:
+                  (1)   What is the purpose of   (a) navbar-nav  (b) ml-auto
+                        Demo show the purpose of these classes in the browser.
+                  (2)   what is "ml" in "ml-auto" stands for?
+                  (3)   What is auto stands for in "ml-auto"?
+                  A: (1)
+            -->
             <ul class="navbar-nav ml-auto">
+                <!-- Q: (1) What is the purpose of nav-item class and demo show in the browser
+                     A: (1)
+                -->
                 <li class="nav-item">
+                    <!--   Q:
+                             (1) What is # in below line mean
+                             (2) When a user click on the 'Home' nav link, which line number will get control of code? (i.e., which DOM object will get focused)
+                                 and explain how this relationship between the below line and the line th
+                             (3) What is the purpose of "nav-link" class?
+                     -->
                     <a href="#home" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item">
+                    <!-- Q: (1) What is # in below line mean
+                         A: (1)
+                        -->
                     <a href="#about" class="nav-link">About</a>
                 </li>
                 <li class="nav-item">
+                    <!-- Q: (1) What is # in below line mean
+                         A:
+                    -->
                     <a href="#authors" class="nav-link">Meet The Authors</a>
                 </li>
                 <li class="nav-item">
+                    <!-- Q: (1) What is # in below line mean
+                         A:
+                         -->
                     <a href="#contact" class="nav-link">Contact</a>
                 </li>
             </ul>
@@ -42,15 +92,47 @@
 </nav>
 
 <!-- SHOWCASE -->
+<!-- Q:
+     (1) What is the purpose of "id" attribute
+     (2) what is the purpose "py-5". Show it in the browser
+     A: (1)
+     -->
 <section id="showcase" class="py-5">
+    <!-- Q:
+            (1) what is the purpose "primary-overlay text-white". Show it in the browser
+            (2) Which bootstrap class will you use if the text color should be orange?
+         A:
+            -->
     <div class="primary-overlay text-white">
+        <!-- Q:  (1) What is the purpose of class "container"
+             A:  (1)
+         -->
         <div class="container">
+            <!-- Q: (1) What is the purpose of class "row".
+                 A: (1)
+            -->
             <div class="row">
+                <!-- Q: (1) What is the purpose of classes "col-lg-6" "text-center". Demo show in the browser.
+                     A: (1)
+                    -->
                 <div class="col-lg-6 text-center">
+                    <!-- Q: (1) What is the purpose of class "display-2"
+                            (2) What is the purpose of class "mt-5"? What is the meaning of "mt" in "mt-5"?
+                                What is the meaning of "5" in "mt-5" and what is the unit of 5 (e.g., rem or px)?
+                            (3) What is the purpose of class "pt-5"? What is the meaning of "pt" in "pt-5"?
+                                What is the meaning of "5" in "pt-5"? and what is the unit of 5 (e.g., rem or px)?
+                            (4) Explain unit "rem" and "px"? When to use what?
+                         A: (1)
+                    -->
                     <h1 class="display-2 mt-5 pt-5">
                         Do What You Dream Of...
                     </h1>
+                    <!-- Q: What is the purpose of class "lead"
+                    -->
                     <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, tempora!</p>
+                    <!-- Q: What is the purpose of each of below classes "btn btn-outline-secondary btn-lg text-white"
+
+                    -->
                 <a href="#" class="btn btn-outline-secondary btn-lg text-white">
                     <i class="fas fa-arrow-right"></i> Read More
                 </a>
@@ -64,9 +146,16 @@
 </section>
 
 <!-- NEWSLETTER -->
+<!-- Q: (1) What is the purpose of each of the class inside "bg-dark text-white py-5". Demo show in the browser if required.
+        (2) What is the purpose of  id="newsletter"  below? Is there any place this id is referred in this file?
+
+-->
 <section id="newsletter" class="bg-dark text-white py-5">
     <div class="container">
         <div class="row">
+            <!-- (1) What is the purpose of class "col-md-4" ?
+
+                -->
             <div class="col-md-4">
                 <input type="text" class="form-control form-control-lg mb-resp" placeholder="Enter Name">
             </div>
@@ -83,10 +172,16 @@
 </section>
 
 <!-- BOXES -->
+<!-- Q: (1) What is the purpose of class "py-5"
+        (2) What does the number 5 in py-5 and what is the unit of number 5?-->
 <section id="boxes" class="py-5">
     <div class="container">
         <div class="row">
             <div class="col-md-3">
+                <!-- Q: (1) What is the purpose of each of the class inside "card text-center border-primary mb-resp". Demo show in the browser if required.
+                        (2) Show the "card" example in the browser.
+
+                -->
                 <div class="card text-center border-primary mb-resp">
                     <div class="card-body">
                         <h3 class="text-primary">Be Better</h3>
@@ -137,17 +232,31 @@
                 </div>
 
                 <!-- ACCORDION -->
+                <!-- Q:  (1) Explain accordian by showing the browser page?
+                            (2) What is the purpose of id "accordion" and where this id is referred/used in this page?
+                            How does it help to achieve necessary functionality?
+                    A:
+                    -->
                 <div id="accordion">
+                    <!-- Q: What is the purpose of class "card". Demo show in the browser if required. -->
                     <div class="card">
+                        <!-- Q: What is the purpose of class "card-header". Demo show in the browser if required. -->
                         <div class="card-header">
+                            <!-- Q: What is the purpose of class "mb-0", What is the expansion of "mb" in it. Demo show in the browser if required. -->
                             <h5 class="mb-0">
+                                <!-- Q: What is the purpose of data-toggle="collapse" and data-parent="#accordion". Demo show in the browser if required. -->
                                 <div href="#collapse1" data-toggle="collapse" data-parent="#accordion">
                                     <i class="fas fa-arrow-circle-down"></i> Get Inspired
                                 </div>
                             </h5>
                         </div>
 
+                        <!-- Q: (1) What is the purpose of class "collapse" in general?
+                                (2) What is the purpose of each of the class inside "collapse show". Demo show in the browser if required. -->
                         <div id="collapse1" class="collapse show">
+                            <!-- Q: (1) What is the purpose of class "card-body". Demo show in the browser if required.
+                                    (2) Where is this card-body's corresponding header?
+                                    (3) How is the connection between "card-body" and "card-header" established -->
                             <div class="card-body">
                                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit odit laborum qui, debitis, sequi dolores nobis mollitia
                                 labore quasi earum laboriosam nihil cupiditate magnam iusto nostrum doloremque accusantium repudiandae
@@ -203,8 +312,16 @@
 <!-- AUTHORS -->
 <section id="authors" class="my-5 text-center">
     <div class="container">
+        <!-- Q: (1) Explain the bootstrap grid below in details
+                (2) How many rows, which class is used to define row
+             A:
+                -->
         <div class="row">
             <div class="col">
+            <!-- Q: (1) What is the purpose of class "info-header ", "mb-5". Demo show in the browser.
+                    (2) What is mb refers to in "mb-5", and what is 5 refers to in "mb-5"?
+                 A: (1)
+            -->
                 <div class="info-header mb-5">
                     <h1 class="text-primary pb-3">
                         Meet The Authors
@@ -217,13 +334,23 @@
         </div>
 
         <div class="row">
+            <!-- Q: (1) What is the purpose of each of the classes inside "col-lg-3 col-md-6". Demo show in the browser if required.
+                    (2) What is the meaning of "col" in "col-lg-3", "lg" in "col-lg-3", and 3 in "col-lg-3"
+                    (3) What is the meaning of "col" in "col-md-6", "md" in "col-md-6", and 6 in "col-md-6"
+                    (4)
+                  A:
+            -->
+
             <div class="col-lg-3 col-md-6">
+                <!-- Q: (1) What is the purpose of class "class". Demo show in the browser if required. -->
                 <div class="card">
                     <div class="card-body">
+                    <!--Q: (1) What is the purpose of each of classes "img-fluid" "rounded-circle" "w-50" "mb-3". Demo show in the browser. -->
                         <img src="img/person1.jpg" alt="" class="img-fluid rounded-circle w-50 mb-3">
                         <h3>Susan Williams</h3>
                         <h5 class="text-muted">Lead Writer</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed commodi nostrum, ab libero voluptas officia.</p>
+                        <!--Q: (1) What is the purpose of class "d-flex" "justify-content-center". Demo show in the browser. -->
                         <div class="d-flex justify-content-center">
                             <div class="p-4">
                                 <a href="http://facebook.com">
@@ -248,14 +375,18 @@
 
             <div class="col-lg-3 col-md-6">
                 <div class="card">
+
                     <div class="card-body">
                         <img src="img/person2.jpg" alt="" class="img-fluid rounded-circle w-50 mb-3">
                         <h3>Grace Smith</h3>
+                        <!-- Q: (1) What is the purpose of class "text-muted". Demo show in the browser. -->
                         <h5 class="text-muted">Co-Writer</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed commodi nostrum, ab libero voluptas officia.</p>
+                        <!-- Q: (1)  What is the purpose of class "d-flex" "justify-content-center". Demo show in the browser. -->
                         <div class="d-flex justify-content-center">
                             <div class="p-4">
                                 <a href="http://facebook.com">
+                                    <!-- Q: What is the purpose of class "fab fa-facebook". Demo show in the browser. -->
                                     <i class="fab fa-facebook"></i>
                                 </a>
                             </div>
@@ -337,6 +468,11 @@
 </section>
 
 <!-- CONTACT -->
+<!--  Q: (1) What is the purpoe of bg-light and py-5??
+         (2) Why bg-light is different from bg-dark?
+         A:
+
+         -->
 <section id="contact" class="bg-light py-5">
     <div class="container">
         <div class="row">
@@ -347,16 +483,31 @@
                     <div class="input-group input-group-lg mb-3">
                         <div class="input-group-prepend">
                 <span class="input-group-text">
+                    <!-- Q: (1) What is the purpose of each of the class inside "fas fa-user". Demo show in the browser if required.
+
+                        A:
+                    -->
                   <i class="fas fa-user"></i>
                 </span>
                         </div>
+                        <!-- Q: (1) What is the purpose of class "orm-control". Demo show in the browser if required.
+                              (2) Purpose of placeholder? Will this "Name" anywhere used in this file?
+                              (3) Explain the purpose of placeholder in general?
+                              A:
+                        -->
                         <input type="text" class="form-control" placeholder="Name">
                     </div>
 
-                    <div class="input-group input-group-lg mb-3">
+                        <!-- Q: (1) What is the purpose of each of the class inside "input-group input-group-lg mb-3". Demo show in the browser if required.
+                                A:
+                        -->
+                        <div class="input-group input-group-lg mb-3">
+                            <!-- Q: (1) What is the purpose of class "nput-group-prepend". Demo show in the browser if required.
+                                A: (1)
+                            -->
                         <div class="input-group-prepend">
-                <span class="input-group-text">
-                  <i class="fas fa-envelope"></i>
+                        <span class="input-group-text">
+                    <i class="fas fa-envelope"></i>
                 </span>
                         </div>
                         <input type="text" class="form-control" placeholder="Email">
@@ -371,10 +522,17 @@
                         <textarea class="form-control" placeholder="Message" rows="5"></textarea>
                     </div>
 
+                    <!-- Q: (1) What is the purpose of each of the class inside "btn btn-primary btn-block btn-lg". Demo show in the browser if required.
+                            (2) Explain the attributes "type" and "value" and their purpose in this page?
+                            A:
+                    -->
+
                     <input type="submit" value="Submit" class="btn btn-primary btn-block btn-lg">
                 </form>
             </div>
-
+            <!-- Q: (1) What is the purpose of each of the class inside "col-lg-3 align-self-center". Demo show in the browser if required.
+                 A:
+            -->
             <div class="col-lg-3 align-self-center">
                 <img src="img/mlogo.png" alt="" class="img-fluid">
             </div>
@@ -401,24 +559,48 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" crossorigin="anonymous"></script>
 
 <script>
+
+
     // Get the current year for the copyright
+    <!-- Q: (1) What does the below line does? (2) What is # in "#year"?
+            (3) What is the purpose of .text ? (4) What is the purpose of function "getFullYear()"?
+          A:
+          -->
     $('#year').text(new Date().getFullYear());
 
+    // Q:   (1) Which tag is first selected in below line (2) What is $ in the below line (3) What is the purpose of scrollspy. Demo show in browser.
+    //      (4) what is the purpose -> target : '#main-nav'
+    // A:
     // Init Scrollspy
     $('body').scrollspy({ target: '#main-nav'});
 
+
+    // Q:
+    // (1) What is the # in below line, and what is exactly "main-nav"?
+    // (2) why there is "a" after #main-nav?
+    // (3) What event is used in below line
+
     // Smooth Scrolling
     $("#main-nav a").on('click', function (event) {
+        // Q: (1) what is "this" keyword?
+        // A: (1)
         if (this.hash !== "") {
+            // Q: (1) What is the purpose of below line????
+            // A: (1)
             event.preventDefault();
 
-
             const hash = this.hash;
-
+            //  Q:
+            // (1) What is $ symbol mean and show the line where the corresponding library is loaded in this ?
+            // (2) What is the purpose of animate keyword ? What is the purpose of 800 below
+            // A: (1)
             $('html, body').animate({
                 scrollTop: $(hash).offset().top
             }, 800, function () {
 
+                // Q:
+                // (1) Explain below line?? what is the purpose of it
+                // A: (1)
                 window.location.hash = hash;
             });
         }
