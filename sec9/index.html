@@ -48,6 +48,11 @@
 <!--SHOWCASE SLIDER-->
 <section id="showcase">
 
+    <!-- Q: (1) What is the purpose of id "myCarousel"?
+                Where is this id used and how does it help here?
+
+         A: (1)
+    -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!--  Q: (1) Explain each of below 5 lines in detail? explain the classes involved?
                  (2) Below 5 lines, explain the purpose of each attributes?       -->
@@ -107,7 +112,7 @@
 
         <!-- Q: (1) What is the purpose of class "carousel-control-prev"
 
-            A:
+             A:
         -->
 <a href="#myCarousel" data-slide="prev" class="carousel-control-prev">
     <span class="carousel-control-prev-icon"></span>
@@ -116,7 +121,7 @@
 <a href="#myCarousel" data-slide="next" class="carousel-control-next">
     <!-- Q: (1) What is the purpose of class "carousel-control-next-icon""
 
-    A:
+         A:
     -->
     <span class="carousel-control-next-icon"></span>
 </a>
@@ -127,6 +132,11 @@
 <section id="home-icons" class="py-5">
     <div class="container">
         <div class="row">
+            <!-- Q: (1) What is the purpose of class "col-md-4" and "mb-4"
+                    (2) Expand the meaning of term "md" in "md-4"?
+                    (3) Expand the meaning of term "mb" in "mb-4"?
+                 A:
+            -->
             <div class="col-md-4 mb-4 text-center">
                 <i class="fas fa-cog fa-3x mb-2"></i>
                 <h3>Turning Gears</h3>
@@ -147,12 +157,24 @@
 </section>
 
 <!--HOME HEADING SECTION-->
+<!-- Q: (1) What is the purpose of class "p-5"
+
+     A:
+-->
 <section id="home-heading" class="p-5">
     <div class="dark-overlay">
         <div class="row">
             <div class="col">
+                <!-- Q: (1) What is the purpose of class "pt-5"?
+                        (2) What does the word "md"
+                     A:
+                -->
                 <div class="container pt-5">
                     <h1>Are You Ready To Get Started?</h1>
+                    <!-- Q: (1) What is the purpose of each of the classes "d-none" "d-md-block".
+                                Demo show in the browser if required.
+                         A: (1)
+                        -->
                     <p class="d-none d-md-block">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est eaque nagni sit dolores. Nisi, dolor nam modi perspiciatis consequatur soluta.</p>
                 </div>
             </div>
@@ -164,12 +186,20 @@
 <section id="info" class="py-3">
     <div class="container">
         <div class="row">
+            <!-- Q: (1) What is the purpose of class "align-self-center"? Demo show in browser
+
+            A:
+            -->
             <div class="col-md-6 align-self-center">
                 <h3>Lorem Ipsum</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eveniet blanditiis incidunt iusto corrupti illum cum laundantium ex sequi amet.</p>
           <a href="about.html" class="btn btn-outline-danger btn-lg">Learn More</a>
             </div>
             <div class="col-md-6">
+                <!-- Q: (1) What is the purpose of class "img-fluid"?
+
+                A:
+                -->
                 <img src="img/laptop.png" alt="" class="img-fluid">
             </div>
         </div>
@@ -178,6 +208,10 @@
 
 <!--VIDEO PLAY-->
 <section id="video-play">
+    <!-- Q: (1) What is the purpose of class "dark-overlay"? Demo show in browser
+
+    A:
+    -->
     <div class="dark-overlay">
         <div class="row">
             <div class="col">
@@ -229,6 +263,10 @@
             </div>
 
             <div class="col-md-4">
+                  <!-- Q: (1) What is the purpose of attributes "data-toggle", "data-gallery", "data-height", "data-width"
+
+                       A:
+                   -->
                 <a href="https://source.unsplash.com/random/564x564" data-toggle="lightbox"
                    data-gallery="img-gallery" data-height="564" data-width="564">
                     <img src="https://source.unsplash.com/random/564x564" alt="" class="img-fluid">
@@ -253,6 +291,10 @@
                 <h1>Sign Up For Our Newsletter</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio asperiores consectetur, quae ducimus voluptates vero repellendus architecto maiores recusandae mollitia?</p>
             <form class="form-inline justify-content-center">
+                <!-- Q: (1) What is the purpose of each of the classes inside "form-control mb-2 mr-2". Demo show in browser.
+                        (2) What is the meaning/expansion of "mr" in "mr-2"?
+                    A:
+                -->
                 <input type="text" class="form-control mb-2 mr-2" placeholder="Enter Name">
                 <input type="text" class="form-control mb-2 mr-2" placeholder="Enter Email">
            <button class="btn btn-primary mb-2">Submit</button>
@@ -279,9 +321,20 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
+                <!-- Q: (1) What is the purpose of class "close"
+                        (2) What is the purpose of attribute " data-dismiss"? and
+                            why does it take the value of "modal"? Does any other value possible.
+
+                    A:
+                -->
                 <button class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
+                <!-- Q: (1) What is the purpose of iframe? Why it is used?
+                         (2) Explain each of the attributes in i-frame below?
+                         (3) What is the purpose of allowfullscreen? demo show in browser.
+                A:
+                -->
                 <iframe src="" frameborder="0" height="350" width="100%" allowfullscreen></iframe>
             </div>
         </div>
@@ -298,11 +351,20 @@
     // Get the current year for the copyright
     $('#year').text(new Date().getFullYear());
 
+    <!-- Q: (1) What is the purpose of "hove"? Demo show in the browser below.
+            (2) With in the next 6 lines, show the jQuery class selector line number below, and does it exactly do there?
+           A:
+    -->
     // Configure Slider
     $('.carousel').carousel({
         interval: 6000,
         pause: 'hover'
     });
+
+    <!-- Q: (1) What is the purpose of $(document) and what does it do exactly?
+            (2) What is the purpose of appearance of  this ->  [data-toggle="lightbox"]'
+    A:
+    -->
 
     // Lightbox Init
     $(document).on('click', '[data-toggle="lightbox"]', function (event) {
