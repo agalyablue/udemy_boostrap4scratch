@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sec9/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec10/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec10/posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec10/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec10/profile.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+            <state relative-caret-position="268">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -37,16 +37,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1416">
-              <caret line="327" column="15" lean-forward="true" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
+            <state relative-caret-position="-8447">
+              <caret line="27" column="111" lean-forward="true" selection-start-line="27" selection-start-column="111" selection-end-line="27" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec10/profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2205">
+              <caret line="147" column="91" selection-start-line="147" selection-start-column="91" selection-end-line="147" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec10/posts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3405">
+              <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec10/settings.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1515">
+              <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec9/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="-1802">
               <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
@@ -154,22 +181,22 @@
         <option value="$PROJECT_DIR$/sec6/css/style.css" />
         <option value="$PROJECT_DIR$/sec6/index.html" />
         <option value="$PROJECT_DIR$/sec10/index.html" />
-        <option value="$PROJECT_DIR$/sec10/posts.html" />
         <option value="$PROJECT_DIR$/sec10/users.html" />
         <option value="$PROJECT_DIR$/sec10/details.html" />
         <option value="$PROJECT_DIR$/sec10/settings.html" />
-        <option value="$PROJECT_DIR$/sec10/profile.html" />
         <option value="$PROJECT_DIR$/sec10/login.html" />
         <option value="$PROJECT_DIR$/sec6/40.html" />
         <option value="$PROJECT_DIR$/sec11/css/style.css" />
         <option value="$PROJECT_DIR$/project2/scss/_variables.scss" />
-        <option value="$PROJECT_DIR$/project2/css/style.css" />
         <option value="$PROJECT_DIR$/sec11/index.html" />
         <option value="$PROJECT_DIR$/sec10/categories.html" />
         <option value="$PROJECT_DIR$/project2/index.html" />
         <option value="$PROJECT_DIR$/sec9/index.html" />
         <option value="$PROJECT_DIR$/sec9/services.html" />
         <option value="$PROJECT_DIR$/sec9/contact.html" />
+        <option value="$PROJECT_DIR$/project2/css/style.css" />
+        <option value="$PROJECT_DIR$/sec10/profile.html" />
+        <option value="$PROJECT_DIR$/sec10/posts.html" />
       </list>
     </option>
   </component>
@@ -240,6 +267,12 @@
               <item name="~/Dropbox/workspace_html/Bootstrap_5projects" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="project2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Bootstrap_5projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Dropbox/workspace_html/Bootstrap_5projects" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="project2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Bootstrap_5projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -355,10 +388,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251884000" />
+    <option name="totallyTimeSpent" value="252276000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="13" y="23" width="1288" height="745" extended-state="0" />
+    <frame x="0" y="23" width="1288" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549329" />
@@ -507,16 +540,6 @@
     <entry file="file://$PROJECT_DIR$/sec10/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/posts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="179" column="37" lean-forward="true" selection-start-line="179" selection-start-column="37" selection-end-line="179" selection-end-column="37" />
-          <folding>
-            <element signature="e#9101#9107#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec10/details.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="535">
@@ -524,24 +547,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/settings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec10/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="280" column="18" lean-forward="true" selection-start-line="280" selection-start-column="18" selection-end-line="280" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="122" selection-start-line="122" selection-end-line="123" />
+        <state relative-caret-position="493">
+          <caret line="363" column="7" lean-forward="true" selection-start-line="363" selection-start-column="7" selection-end-line="363" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -627,15 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1416">
-          <caret line="327" column="15" lean-forward="true" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
+        <state relative-caret-position="268">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -655,8 +657,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec9/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="-1802">
           <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8447">
+          <caret line="27" column="111" lean-forward="true" selection-start-line="27" selection-start-column="111" selection-end-line="27" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="147" column="91" selection-start-line="147" selection-start-column="91" selection-end-line="147" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3405">
+          <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
         </state>
       </provider>
     </entry>
