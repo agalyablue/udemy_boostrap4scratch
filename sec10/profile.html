@@ -166,6 +166,12 @@ A:
 
 <!--ADD POST MODAL-->
 <div class="modal fade" id="addPostModal">
+    <!-- Q: (1) What is the purpose in each of the classes ->
+                        "modal-dialog" "modal-lg" "modal-content" "modal-header" "modal-title" "modal-body"
+                        Demo show in the browser.
+
+    A:
+    -->
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header bg-primary text-white">
@@ -191,6 +197,10 @@ A:
                     </div>
                     <div class="form-group">
                         <label for="image">Upload Image</label>
+                        <!-- Q: (1) What is the purpose of class "custom-file" "custom-file-input" "custom-file-label"
+
+                        A:
+                        -->
                         <div class="custom-file">
                             <input type="file" class="custom-file-input" id="image">
                             <label for="image" class="custom-file-label">Choose File</label>
@@ -283,6 +293,10 @@ A:
     // Get the current year for the copyright
     $('#year').text(new Date().getFullYear());
 
+    <!-- Q: (1) What is the purpose of object "CKEDITOR"? and where does it come from?
+
+    A:
+    -->
     CKEDITOR.replace('editor1');
 
 </script>

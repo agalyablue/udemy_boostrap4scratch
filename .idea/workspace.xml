@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sec10/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec10/posts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sec10/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec10/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec10/categories.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sec10/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2205">
-              <caret line="147" column="91" selection-start-line="147" selection-start-column="91" selection-end-line="147" selection-end-column="91" />
+            <state relative-caret-position="4425">
+              <caret line="295" column="86" selection-start-line="295" selection-start-column="86" selection-end-line="295" selection-end-column="86" />
             </state>
           </provider>
         </entry>
@@ -61,11 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec10/settings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1515">
+            <state relative-caret-position="-1595">
               <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec11/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4620">
+              <caret line="308" lean-forward="true" selection-start-line="308" selection-end-line="308" />
             </state>
           </provider>
         </entry>
@@ -188,15 +188,15 @@
         <option value="$PROJECT_DIR$/sec6/40.html" />
         <option value="$PROJECT_DIR$/sec11/css/style.css" />
         <option value="$PROJECT_DIR$/project2/scss/_variables.scss" />
-        <option value="$PROJECT_DIR$/sec11/index.html" />
         <option value="$PROJECT_DIR$/sec10/categories.html" />
         <option value="$PROJECT_DIR$/project2/index.html" />
         <option value="$PROJECT_DIR$/sec9/index.html" />
         <option value="$PROJECT_DIR$/sec9/services.html" />
         <option value="$PROJECT_DIR$/sec9/contact.html" />
         <option value="$PROJECT_DIR$/project2/css/style.css" />
-        <option value="$PROJECT_DIR$/sec10/profile.html" />
         <option value="$PROJECT_DIR$/sec10/posts.html" />
+        <option value="$PROJECT_DIR$/sec11/index.html" />
+        <option value="$PROJECT_DIR$/sec10/profile.html" />
       </list>
     </option>
   </component>
@@ -388,7 +388,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252276000" />
+    <option name="totallyTimeSpent" value="252541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1288" height="745" extended-state="0" />
@@ -613,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec11/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4410">
-          <caret line="294" selection-start-line="294" selection-end-line="294" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec10/categories.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -669,13 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2205">
-          <caret line="147" column="91" selection-start-line="147" selection-start-column="91" selection-end-line="147" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec10/posts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3405">
@@ -685,8 +671,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec10/settings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
+        <state relative-caret-position="-1595">
           <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="308" lean-forward="true" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4425">
+          <caret line="295" column="86" selection-start-line="295" selection-start-column="86" selection-end-line="295" selection-end-column="86" />
         </state>
       </provider>
     </entry>
