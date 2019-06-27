@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92f5aba-93d4-4d84-8ce9-54c5d225354f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sec10/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec10/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec10/profile.html">
+        <entry file="file://$PROJECT_DIR$/sec11/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="287" column="26" lean-forward="true" selection-start-line="287" selection-start-column="26" selection-end-line="287" selection-end-column="26" />
+            <state relative-caret-position="748">
+              <caret line="333" lean-forward="true" selection-start-line="333" selection-end-line="333" />
             </state>
           </provider>
         </entry>
@@ -31,7 +31,6 @@
       <find>collaps</find>
       <find>CollapseSix</find>
       <find>home&quot;</find>
-      <find>jquery</find>
       <find>name</find>
       <find>Name</find>
       <find>d-flex</find>
@@ -49,6 +48,7 @@
       <find>newsletter</find>
       <find>showcase</find>
       <find>myCarousel</find>
+      <find>jquery</find>
       <find>Q:</find>
     </findStrings>
     <replaceStrings>
@@ -114,8 +114,8 @@
         <option value="$PROJECT_DIR$/sec9/contact.html" />
         <option value="$PROJECT_DIR$/project2/css/style.css" />
         <option value="$PROJECT_DIR$/sec10/posts.html" />
-        <option value="$PROJECT_DIR$/sec11/index.html" />
         <option value="$PROJECT_DIR$/sec10/profile.html" />
+        <option value="$PROJECT_DIR$/sec11/index.html" />
       </list>
     </option>
   </component>
@@ -274,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.profile.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
     <configuration name="55.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/55.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -287,13 +287,13 @@
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/project2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_boostrap4scratch/sec11/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec9/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec6/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="posts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap_5projects/sec10/posts.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="profile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_boostrap4scratch/sec10/profile.html" useBuiltInWebServerPort="true">
@@ -301,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.profile.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.posts.html" />
       </list>
     </recent_temporary>
   </component>
@@ -326,12 +326,12 @@
       <workItem from="1560799609998" duration="132333000" />
       <workItem from="1561321703735" duration="6019000" />
       <workItem from="1561436172463" duration="1591000" />
-      <workItem from="1561646197939" duration="9416000" />
+      <workItem from="1561646197939" duration="13313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="261957000" />
+    <option name="totallyTimeSpent" value="265854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="23" width="1787" height="972" extended-state="0" />
@@ -564,13 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec11/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4620">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -628,8 +621,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec10/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="287" column="26" lean-forward="true" selection-start-line="287" selection-start-column="26" selection-end-line="287" selection-end-column="26" />
+        <state relative-caret-position="188">
+          <caret line="281" column="62" lean-forward="true" selection-start-line="281" selection-start-column="62" selection-end-line="281" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="333" lean-forward="true" selection-start-line="333" selection-end-line="333" />
         </state>
       </provider>
     </entry>
