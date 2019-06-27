@@ -126,14 +126,17 @@
             <!-- Q: (1) What is the purpose of class "col-md-3"?
                     (2) Instead of number 3 in class "col-md-3", can this be any other number?
 
-                 A:
+                 A: (1) md- medium devices
+                     (2) yes col-md-12 , more than 12 columns
             -->
             <div class="col-md-3">
                 <h3>Your Avatar</h3>
                 <!-- Q: (1) What is the purpose of class "img-fluid"?
                         (2) What is the purpose of class "d-block"?
 
-                A:
+                A:(1)"img-fluid" - class to make an image scale. This class applies max-width: 100%, height: auto to the image.
+                  (2)"d-block" - used to set an element's
+                                  element is an equivalent styling (style= "display:block", / visible on all
                 -->
                 <img src="img/avatar.png" alt="" class="d-block img-fluid mb-3">
                 <button class="btn btn-primary btn-block">Edit Image</button>
@@ -146,9 +149,11 @@
 <!--FOOTER-->
 <!-- Q: (1) What is the purpose of each of the class "mt-5" "p-5"
         (2) If I ask you to use orange for footer text instead of white, what would you do?
-A:
+A: (1) - mt-5 - classes that set of margin-top
+         p-5 - padding classes
+    (2) - <footer id= "main-footer" class= bg-dark text-warning mt-5 p-5">
 -->
-<footer id="main-footer" class="bg-dark text-white mt-5 p-5">
+<footer id="main-footer" class="bg-dark text-warning mt-5 p-5">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -170,7 +175,15 @@ A:
                         "modal-dialog" "modal-lg" "modal-content" "modal-header" "modal-title" "modal-body"
                         Demo show in the browser.
 
-    A:
+    A: * modal-dialog - class sets the proper width and margin of the modal.
+        * modal-content - <div> with class= "modal-content" styles the modal border,background-color,etc. / inside the <div> add the header,body and footer.
+        * modal-header -  class is used to define the style for header of modal.
+        * modal-title - The <button> inside the header has a data-dismiss="modal" attribute which closes the modal if you click it.
+                               The close class button styles and modal-title class styles the header with a proper line-height.
+
+        * modal-body - class is used to define the styles of the modal
+                         Add an HTML paragraphs,images.
+        * modal-lg - class for large modals
     -->
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
@@ -199,7 +212,7 @@ A:
                         <label for="image">Upload Image</label>
                         <!-- Q: (1) What is the purpose of class "custom-file" "custom-file-input" "custom-file-label"
 
-                        A:
+                        A: * custom-file - around the input with type = "file" then add thw custom-file-input it. Labels for text, add the custom-file-label it.
                         -->
                         <div class="custom-file">
                             <input type="file" class="custom-file-input" id="image">
@@ -295,7 +308,8 @@ A:
 
     <!-- Q: (1) What is the purpose of object "CKEDITOR"? and where does it come from?
 
-    A:
+    A: Main filter instance used to input data tranformations and activation of features
+   CKEDITOR-  Its based on editor configuration
     -->
     CKEDITOR.replace('editor1');
 
