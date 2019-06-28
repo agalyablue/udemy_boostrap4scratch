@@ -8,9 +8,12 @@
     <!-- Q: (1) What is the rel="stylesheet" here in below line?
                 If the href file is .js file, then do you still need rel?
 
-         A:
+         A:  The rel attribute defines the relationship that the linked resource has to the document from which it's referenced.
+         In most cases, this resource will simply be “ stylesheet “, which means, not surprisingly, “the referenced document is a style sheet.
+                yes, still I did need rel.
     -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" crossorigin="anonymous">
+
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" crossorigin="anonymous">
     <!--  Remarks: Below two lines can be merged into one. Unless the lines are too long, that you can't read, then break to next   -->
     <link rel="stylesheet"
           href="css/bootstrap.css">
@@ -28,10 +31,14 @@ Q:
 (6) Why there is an error in "css/style.css" in this project2? Please see the red color mark in style.css file.
 
 A:
-(1)
+(1)The most commonly used syntax is known as “SCSS” and is a superset of CSS3’s syntax. This means that every valid CSS3 stylesheet is valid SCSS as well. SCSS files use the extension .scss.
 (2)
 (3)
-(4)
+(4) By default, .btn-primary has white text on a blue background.
+ Adjust the default colors using the --button-color and --button-background-color custom properties.
+       <button type="button" class="btn btn-primary">Primary</button>
+(5) I used to compile the scss code.
+
 -->
 
 <body id="home" data-spy="scroll" data-target="#main-nav">
@@ -39,9 +46,22 @@ A:
 <!--    (2) What is md in class "navbar-expand-md " -->
 <!--    (3) What does the -->
 <!--    (4) What is the purpose of fixed-top and show how it works in the screen
-     A: (1)
 
+     A: (1) navbar-light - You can also change the color scheme of the navbar by using the .navbar-light for the light background colors
+            Fixed-Top -
+         (4) <nav class="navbar navbar-fixed-top">
+  <div class="container">
+    <div id="navbar" class="navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li>About</li>
+        <li>Projects</li>
+        <li>Contact Me</li>
+      </ul>
+    </div>
+  </div>
+</nav>
 -->
+
 <nav class="navbar navbar-expand-md navbar-light fixed-top py-4" id="main-nav">
     <div class="container">
         <a href="#home" class="navbar-brand">
@@ -63,7 +83,14 @@ A:
             -->
             <ul class="navbar-nav ml-auto">
                 <!-- Q: (1) What is the purpose of nav-item class and demo show in the browser
-                     A: (1)
+                     A: (1)When using a <nav>-based navigation, be sure to include .nav-item on the anchors.
+                             Active   Link  Link      Disabled
+                     <nav class="nav nav-pills nav-fill">
+  <a class="nav-item nav-link active" href="#">Active</a>
+  <a class="nav-item nav-link" href="#">Link</a>
+  <a class="nav-item nav-link" href="#">Link</a>
+  <a class="nav-item nav-link disabled" href="#">Disabled</a>
+</nav>
                 -->
                 <li class="nav-item">
                     <!--   Q:
@@ -71,6 +98,8 @@ A:
                              (2) When a user click on the 'Home' nav link, which line number will get control of code? (i.e., which DOM object will get focused)
                                  and explain how this relationship between the below line and the line th
                              (3) What is the purpose of "nav-link" class?
+                             A : (3) The <nav> tag defines a set of navigation links.  The <nav> element is intended only for major block of navigation links.
+                             Browsers, such as screen readers for disabled users, can use this element to determine whether to omit the initial rendering of this content.
                      -->
                     <a href="#home" class="nav-link">Home</a>
                 </li>
@@ -101,13 +130,18 @@ A:
 <!-- Q:
      (1) What is the purpose of "id" attribute
      (2) what is the purpose "py-5". Show it in the browser
-     A: (1)
+     A: (1)The id attribute is a unique identifier which is used to specify the document.
+        It is used by CSS and JavaScript to perform a certain task for a unique element.
+        (2) py-5 - padding
+              y- for classes that set both top and bottom
+              5 - (by default) for classes that set the margin or padding to $spacer * 3
      -->
 <section id="showcase" class="py-5">
     <!-- Q:
             (1) what is the purpose "primary-overlay text-white". Show it in the browser
             (2) Which bootstrap class will you use if the text color should be orange?
          A:
+          (2) text-warning
             -->
     <div class="primary-overlay text-white">
         <!-- Q:  (1) What is the purpose of class "container"
@@ -115,7 +149,12 @@ A:
          -->
         <div class="container">
             <!-- Q: (1) What is the purpose of class "row".
-                 A: (1)
+                 A: (1)The container provide the width constraints on responsive widths.
+                 When the responsive sizes change, it’s the container that changes.
+                 Rows and columns are all percentage based so they don’t need to change.
+                 Note that there is a 15px margin on each side, canceled by rows.
+
+
             -->
             <div class="row">
                 <!-- Q: (1) What is the purpose of classes "col-lg-6" "text-center". Demo show in the browser.
@@ -134,7 +173,10 @@ A:
                         Do What You Dream Of...
                     </h1>
                     <!-- Q: What is the purpose of class "lead"
+                         A: The lead class in Bootstrap is used to add emphasis to a paragraph.
+                              You can try to run the following code to implement the lead class in Bootstrap.
                     -->
+
                     <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, tempora!</p>
                     <!-- Q: What is the purpose of each of below classes "btn btn-outline-secondary btn-lg text-white"
 
@@ -325,7 +367,9 @@ A:
     <div class="container">
         <!-- Q: (1) Explain the bootstrap grid below in details
                 (2) How many rows, which class is used to define row
-             A:
+             A: (1) The Bootstrap Grid System is used for layout, specifically Responsive Layouts.
+              The Grid is made up of groupings of Rows & Columns inside 1 or more Containers.
+              The Bootstrap Grid can be used alone, without the Bootstrap JavaScript and other CSS Components.
                 -->
         <div class="row">
             <div class="col">
@@ -361,7 +405,11 @@ A:
                         <h3>Susan Williams</h3>
                         <h5 class="text-muted">Lead Writer</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed commodi nostrum, ab libero voluptas officia.</p>
-                        <!--Q: (1) What is the purpose of class "d-flex" "justify-content-center". Demo show in the browser. -->
+                        <!-- Q: (1) What is the purpose of class "d-flex" "justify-content-center". Demo show in the browser.
+                            A: Use the .justify-content-* classes to change the alignment of flex items.
+                             Valid classes are start (default), end, center, between or around.
+                                  Display flex items in the center of a flex container on different screens.
+                        -->
                         <div class="d-flex justify-content-center">
                             <div class="p-4">
                                 <a href="http://facebook.com">
@@ -390,7 +438,10 @@ A:
                     <div class="card-body">
                         <img src="img/person2.jpg" alt="" class="img-fluid rounded-circle w-50 mb-3">
                         <h3>Grace Smith</h3>
-                        <!-- Q: (1) What is the purpose of class "text-muted". Demo show in the browser. -->
+                        <!-- Q: (1) What is the purpose of class "text-muted". Demo show in the browser.
+                           A : Bootstrap 4 has some contextual classes that can be used to provide "meaning through colors".
+                                     The classes for text colors are: .text-muted
+                        -->
                         <h5 class="text-muted">Co-Writer</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed commodi nostrum, ab libero voluptas officia.</p>
                         <!-- Q: (1)  What is the purpose of class "d-flex" "justify-content-center". Demo show in the browser. -->
@@ -479,9 +530,9 @@ A:
 </section>
 
 <!-- CONTACT -->
-<!--  Q: (1) What is the purpoe of bg-light and py-5??
+<!--  Q: (1) What is the purpose of bg-light and py-5??
          (2) Why bg-light is different from bg-dark?
-         A:
+         A: (1) The classes for background colors are bg-light.
 
          -->
 <section id="contact" class="bg-light py-5">
@@ -501,7 +552,7 @@ A:
                   <i class="fas fa-user"></i>
                 </span>
                         </div>
-                        <!-- Q: (1) What is the purpose of class "orm-control". Demo show in the browser if required.
+                        <!-- Q: (1) What is the purpose of class "form-control". Demo show in the browser if required.
                               (2) Purpose of placeholder? Will this "Name" anywhere used in this file?
                               (3) Explain the purpose of placeholder in general?
                               A:
@@ -513,7 +564,7 @@ A:
                                 A:
                         -->
                         <div class="input-group input-group-lg mb-3">
-                            <!-- Q: (1) What is the purpose of class "nput-group-prepend". Demo show in the browser if required.
+                            <!-- Q: (1) What is the purpose of class "input-group-prepend". Demo show in the browser if required.
                                 A: (1)
                             -->
                         <div class="input-group-prepend">
