@@ -18,31 +18,43 @@
 <!--NOTE: WATCH THE VIDEO AND LISTEN to improve your understanding before you write the answer below -->
 <!-- Q: (1) What is the purpose of class  "navbar-expand-sm"? What is "sm" inside "navbar-expand-sm"
         (2) Purpose of each of class inside "navbar-dark bg-dark p-0"
-A:
+A: (1) Remove the .navbar-expand-sm class to create a vertical navigation bar:
+
+Link 1
+Link 2
+Link 3
+
 -->
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark p-0">
     <div class="container">
         <!-- Q: (1) What is the purpose of class "navbar-brand"
 
-        A:
+        A:The navbar-brand class is used to highlight the brand/logo/project name of your page.
+            When using the navbar-brand class on images, Bootstrap4 will automatically style the image
+              to fit the navbar vertically.
         -->
         <a href="index.html" class="navbar-brand">Blogen</a>
         <!-- Q: (1) What is the purpose of class "navbar-toggle"
                 (2) purpose of attribute ?  "data-toggle" and "data_target"
                 (3) Why data-toggle="collapse"
 
-        A:
+        A: (1) navbar-toggle -  The collapsing nature is tripped by a button that has the class of navbar-toggle
+                                and then features two data-elements.
+            (2) data-toggle and data_target - The first, data-toggle, is used to tell the JavaScript what to do with the button, and the second, data-target, indicates which element to toggle.
+            (3) data-toggle=collapse - To control (show/hide) the collapsible content, add the data-toggle="collapse" attribute to an <a> or a <button> element.
         -->
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <!-- Q: (1) What is the purpose of class "navbar-toggler-icon"
-                 A: (1)
+                 A: (1) navbar-toggler-icon - To display the "hamburger", use the navbar-toggler-icon class on a <span> element.
             -->
             <span class="navbar-toggler-icon"></span>
         </button>
         <!-- Q: (1) What is the purpose of class "navbar-nav" / "nav-item" / "px-2"
                 (2) What is the purpose of id in general? Where is this id "navbarCollapse" is used and how exactly it is used and for
                     what purpose to achieve?
-            A:
+            A: (1) navbar-nav - for a full-height and lightweight navigation(including supports for dropdowns)
+                (2) nav-item - If you want to create a simple horizontal menu, add the .nav class to a <ul> element, followed by .nav-item for each <li> and add the .nav-link class to their links
+                (3) id= navbarCollapse - id -specifies a unique id for the element.
         -->
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav">
@@ -63,7 +75,10 @@ A:
             <ul class="navbar-nav ml-auto">
                 <!-- Q: (1) What is the purpose of class "mr-3"? What is the expansion of "mr" in it?
 
-                A:
+                A: m- sets margin
+                   r- margin-right or padding-right
+                   3- sets margin or padding to 1rem (16px if font-size is 16px)
+                   Expand mr- margin-right
                 -->
                 <li class="nav-item dropdown mr-3">
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
@@ -71,7 +86,12 @@ A:
                     </a>
                     <!-- Q: (1) What is the purpose of class "dropdown-menu"
 
-                    A:
+                    A: A dropdown menu is a toggleable menu that allows the user to choose one value from
+                         a predefined list.
+                         Link 1
+                         Link 2
+                         Link 3
+                         A dropdown class indicates a dropdown menu
                     -->
                     <div class="dropdown-menu">
                         <a href="profile.html" class="dropdown-item">
@@ -79,7 +99,8 @@ A:
                         </a>
                         <!-- Q: (1) What is the purpose of class "dropdown-item"
 
-                        A:
+                        A: Add the dropdown-menu class to a <div> element to actually build the dropdown menu.
+                            Then add the dropdown-item class to each element (links or buttons) inside the dropdown menu.
                         -->
                         <a href="settings.html" class="dropdown-item">
                             <i class="fas fa-cog"></i> Settings
@@ -98,7 +119,9 @@ A:
 
 <!-- Q: (1) What is the purpose of each of class "py-2 bg-success text-white". Demo show in browser.
 
-A:
+A: p- for classes that set padding
+   y- that set both top and bottom
+   2- (by default) for classes that set the margin or padding to $spacer*25
 -->
 <!--HEADER-->
 <header id="main-header" class="py-2 bg-success text-white">
@@ -133,7 +156,15 @@ A:
     <!-- Q: (1) What is the purpose of class "container"?
              (2) Will "container" class will always come inside "section"?
              (3) Explain how many rows in this bootstrap grid inside "container"?
-    A:
+    A:(1) Bootstrap requires a containing element to wrap site contents our grid system.
+                 You may choose to use in your projects.
+                 Use container for a responsive fixed with container.
+                 <div class= "container">
+                 ...
+                 </div>
+                 (2) No, its will always doesn't coming inside "section".
+                 (3) The parent level row is inside of a container element.
+                       Whenever you'd like to nest rows, just open up a new row inside of your column.
     -->
     <div class="container">
         <div class="row">
