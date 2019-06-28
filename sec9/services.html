@@ -3,20 +3,30 @@
 
 <head>
     <!--    Q: (1) What is charset? Why it has to be UTF-8?
-            A: (1) -->
+            A: (1) UTF-8 - Universal Charset Set + Transformation Format- 8bit is a character encoding
+                      capable of all possible characters (code points)in unicode.
+                           The encode is variable-length and uses 8-bits code units.
+            -->
     <meta charset="UTF-8">
     <!--  Q: (1) What is a viewpoint?
              (2) Explain the meaning for content="width=device-width, initial-scale=1.0"
                     What does width=device-width mean? and what does initial-scale=1.0 mean?
-            A: (1) -->
+            A: (1) The viewport is the user's visible area of a web page.
+                    The viewport varies with the device, and will be smaller on a mobile phone
+                    than on a computer screen..
+                (2) "content="width=device-width - Part sets the width of the page to follow the screen-width
+                                                   of the device.
+                     initial-scale=1.0" - sets the initial zoom level when the page is first loaded
+                                         by the browser.
+            -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!--   Q: (1) Purpose of using this stylesheet below?
-           A: (1)
+           A: (1)To use the Font awesome icons, add the following line inside the <head> section of the HTML page.
     -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" crossorigin="anonymous">
     <!--   Q: (1) Purpose of using this stylesheet below?
-           A: (1)
+           A: (1)The stylesheet <link>into your <head> before all other stylesheets to load our CSS.
     -->
     <link rel="stylesheet"
           href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" crossorigin="anonymous">
@@ -28,20 +38,28 @@
 <body>
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
     <!-- Q: (1) What is the purpose of class "container"
-         A: (1)
+         A: (1) Bootstrap requires a containing element to wrap site contents our grid system.
+                 You may choose to use in your projects.
+                 Use container for a responsive fixed with container.
+                 <div class= "container">
+                 ...
+                 </div>
     -->
     <div class="container">
         <a href="index.html" class="navbar-brand">Glozzom</a>
-        <!-- Q: (1) What is the purpose of class "navbar-toggler"" and "navbar-toggler-icon"
+        <!-- Q: (1) What is the purpose of class "navbar-toggler" and "navbar-toggler-icon"
                 (2) Purpose of using class="collapse"
-             A: (1)
+             A: (1) navbar-toggler - For use with our collapse plugin and other navigation toggling behaviours.
+                    navbar-toggler-icon - To display the "hamburger", use the navbar-toggler-icon class on a <span> element.
+                (2) collapse class indicates a collapsible element (a <div> in our example); this the content
+                    that will be shown or hidden with a click of a button.
         -->
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <!-- Q: (1) What is the purpose of class "ml-auto"? Expand the meaning for it?
-                A: (1)
+                A: (1) ml-auto means margin-left: auto which aligns an element to the right.
             -->
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
@@ -70,7 +88,9 @@
         <div class="row">
             <!-- Q: (1) What is the purpose of class "col-md-6"?
                     (2) Difference between "m-auto" and "ml-auto"?
-                 A: (1)
+                 A: (1) For medium devices we will use the col-md-6 classes.
+                         Now we will add the column widths for medium devices.
+                     (2)  ml-auto means margin-left: auto which aligns an element to the right.
             -->
             <div class="col-md-6 m-auto text-center">
                 <h1>Our Services</h1>
@@ -94,7 +114,8 @@
                                (2) How will the link between "card-body" and "card-header" automatically establish for a card?
                                     Is it implicit? Explain?
 
-                           A: (1)
+                           A: (1) Use card-title to add card titles to any heading element.
+                               (2) Inside card-body and card-header adds a heading to the card . It is not implicit.
                       -->
                       <h4 class="card-title">$59.99/Month</h4>
                       <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -102,7 +123,8 @@
                       <!-- Q: (1) What is the purpose of class "list-group"
                                 (2) What is the purpose of class "list-group-item"
 
-                            A: (1)
+                            A: (1) To create a basic list-group , use an <ul> element with class.
+                               (2) list-group and <li> element with class . list-group-item
                       -->
                       <ul class="list-group">
                           <li class="list-group-item">
@@ -123,8 +145,13 @@
                       </ul>
                       <!-- Q: (1) What is the purpose of class "btn-block" and "mt-2"
 
-                            A: (1)
+                            A: (1) A Block level button spans the entire width of the parent element.
+                                   Add  class btn-block to create a block level button
+                                * mt-2 - m for classes the set margin
+                                         t- the set of margin-top or padding-top
+                                         2- (by default) the set margin or padding to $spacer*5
                       -->
+
                       <a href="#" class="btn btn-danger btn-block mt-2">Get It</a>
                   </div>
                   <div class="card-footer text-muted">
@@ -270,7 +297,8 @@
             </div>
             <div class="col-md-6">
             <!-- Q: (1) You have twice used the id "accordion"? Can two or more DOM objects have same "id"?
-                 A: (1)
+                 A: (1) yes I have twice used id "accordion". An accordion is used to show (and hide) HTML content
+                           No, don't use two or more DOM objects have same "id".
             -->
                 <div id="accordion">
                 <div class="card">
@@ -358,7 +386,7 @@
 
     <!-- Q: (1) Tell at least two new things you learnt while you doing this file?
 
-         A:
+         A: (i) I learnt something new one in FAQ and another one is data-parent =accordion
     -->
 
 </script>
