@@ -17,7 +17,11 @@
 <body>
 <!-- Q: (1) What is the purpose of class "navbar-dark"?
         (2) What is the purpose of class "navbar-expand-sm"?
-     A:
+
+     A: (1) navbar-dark - Basically just determines what color the text should be i.e light text for a dark background
+                           navbar and dark text for a light coloured navbar.
+        (2) navbar-expand-sm - (stacks the navbar vertically on small screens). Navbars requires a wrapping navbar with navbar-expand-sm
+                                    for responsive collapsing and color scheme classes.
 -->
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark p-0">
     <div class="container">
@@ -38,7 +42,9 @@
                 </li>
                 <!-- Q: (1) What is the purpose of class "px-2"
 
-                A:
+                A: px-2 - p - for classes the set of padding
+                          x -  set both left and right
+                           2 - (by default) the set of margin or padding to $spacer*5.
                 -->
                 <li class="nav-item px-2">
                     <a href="users.html" class="nav-link">Users</a>
